@@ -1,6 +1,8 @@
 # 💫 About Me:
 Student @ TCR
 
+# 🎵 Spotify
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=kzqa14ua2whi9flqwjo93u9br)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benno-van-dorst) 
